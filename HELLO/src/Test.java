@@ -52,4 +52,10 @@ public class Test {
 	{
 		System.out.println("bb = "+ bb);
 	}
+	
+	public void print_ii()
+	{
+		System.out.println("bb = "+ bb);
+	}
+	
 }
