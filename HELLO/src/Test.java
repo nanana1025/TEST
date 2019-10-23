@@ -27,4 +27,9 @@ public class Test {
 	{
 		System.out.println("bb = "+ bb);
 	}
+	
+	public void print_dd()
+	{
+		System.out.println("bb = "+ bb);
+	}
 }
