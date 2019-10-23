@@ -53,7 +53,7 @@ public class Test {
 		System.out.println("bb = "+ bb);
 	}
 	
-	public void print_ii()
+	public void print_i()
 	{
 		System.out.println("bb = "+ bb);
 	}
