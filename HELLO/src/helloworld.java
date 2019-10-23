@@ -9,6 +9,7 @@ public class helloworld {
 		test.print_aa();
 		test.print_bb();
 		test.print_cc();
+		test.print_dd();
 
 	}
 
